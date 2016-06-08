@@ -1,0 +1,1 @@
+declare namespace xfdf="http://ns.adobe.com/xfdf/";//xfdf:highlight/xfdf:contents/text()
