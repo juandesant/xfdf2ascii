@@ -18,9 +18,9 @@ declare function functx:trim
   let $rich_comment := $h/xfdf:contents-richtext/body/p/span/text()
   let $comment := fn:concat($comment,$rich_comment)
   let $tokenized_comment := fn:tokenize($comment, ":")
-  let $comment := $tokenized_comment[1]
+  let $comment := functx:trim($tokenized_comment[2])
   let $section := fn:string($h/@subject) (: if it exists, it might include context :)
-  let $section := fn:concat($section,fn:string($tokenized_comment[0]))
-  return <tr><td>{fn:string($issue)}</td><td>{$section}</td><td>{$page}</td><td>{$author}</td><td>{$tokenized_comment}</td></tr>
+  let $section := fn:concat($section, fn:string(functx:trim($tokenized_comment[1])))
+  return <tr><td>{fn:string($issue)}</td><td>{$section}</td><td>{$page}</td><td>{$author}</td><td>{$comment}</td></tr>
 }
 </table></body></xhtml>
