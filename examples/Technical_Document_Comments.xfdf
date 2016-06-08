@@ -1,51 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve"
-><annots
-><highlight color="#FFE79D" flags="print" date="D:20160608095032Z00'00'" name="4515776b-0ec5-3746-a922-319d40bbd1cf" page="2" coords="99.183000,299.226500,135.639000,299.226500,99.183000,293.422100,135.639000,293.422100,164.482000,299.200700,250.282000,299.200700,164.482000,293.429800,250.282000,293.429800,288.741000,299.200700,306.533000,299.200700,288.741000,293.429800,306.533000,293.429800,376.060000,299.200700,489.412000,299.200700,376.060000,293.429800,489.412000,293.429800" rect="99.183000,293.422100,489.412000,299.226500" title="Santander-Vela, Juande"
-><contents
->Document Software Box: The version of the DocBook plugin, and of the related XSLT files for templating/personalisation for TM should be included, in this and the rest of Cameo-generated documents.</contents
-><popup open="yes" page="2" rect="493.412000,293.422100,621.412000,365.422100"
-/></highlight
-><highlight color="#FFE79D" flags="print" date="D:20160608095047Z00'00'" name="b363be68-8207-7540-ab39-71468cdc9365" page="9" coords="72,747.768100,183.386900,747.768100,72,735.230700,183.386900,735.230700" rect="72,735.230700,183.386900,747.768100" title="Santander-Vela, Juande"
-><contents
->List of Tables: Regarding the issue of tables vs diagrams, there should be a clarification. It would be less confusing if the "diagram" included a table in graphical form, but because it is really in table form, the SysML link is lost.</contents
-><popup open="yes" page="9" rect="187.386900,735.230700,315.386900,807.230700"
-/></highlight
-><highlight color="#FFE79D" flags="print" date="D:20160608110648+01'00'" name="d9ad4442-ec0f-4e46-8d11-067cfca2f4a9" page="132" coords="131.990000,414.738600,168.670000,414.738600,131.990000,407.525000,168.670000,407.525000" rect="131.990000,407.525000,168.670000,414.738600" title="Santander-Vela, Juande"
-><contents-richtext
-><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.16" xfa:spec="2.0.2"
-><p dir="ltr"
-><span dir="ltr" style="text-align:left;color:#0A0A0A;font-weight:normal;font-style:normal"
->TM_REQ_358, TBD118: Could this be brought into a TBC soon?</span
-></p
-></body
-></contents-richtext
-><popup flags="print,nozoom,norotate" open="yes" page="132" rect="172.670000,407.525000,300.670000,479.525000"
-/></highlight
-><highlight color="#FFE79D" flags="print" date="D:20160608110656+01'00'" name="91d6a8cf-2139-6f44-a549-0adaa6e1c09d" page="132" coords="131.990000,363.738600,168.670000,363.738600,131.990000,356.525000,168.670000,356.525000" rect="131.990000,356.525000,168.670000,363.738600" title="Santander-Vela, Juande"
-><contents-richtext
-><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.16" xfa:spec="2.0.2"
-><p dir="ltr"
-><span dir="ltr" style="text-align:left;color:#0A0A0A;font-weight:normal;font-style:normal"
->TM_REQ_358, TBD119: Could this be a TBC soon?</span
-></p
-></body
-></contents-richtext
-><popup flags="print,nozoom,norotate" open="yes" page="132" rect="172.670000,356.525000,300.670000,428.525000"
-/></highlight
-><highlight color="#FFE79D" flags="print" date="D:20160608110743+01'00'" name="d4654263-bdf4-fb47-b651-19fd3f2b29c2" page="229" coords="437.966000,389.270900,496.316000,389.270900,437.966000,382.015400,496.316000,382.015400" rect="437.966000,382.015400,496.316000,389.270900" title="Santander-Vela, Juande"
-><contents-richtext
-><body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.16" xfa:spec="2.0.2"
-><p dir="ltr"
-><span dir="ltr" style="text-align:left;color:#0A0A0A;font-weight:normal;font-style:normal"
->TM_VREQ_29: Seems to verify TM_REQ_35, but that requirement has been removed from the T0000-0000-RS-001 document.</span
-></p
-></body
-></contents-richtext
-><popup flags="print,nozoom,norotate" open="yes" page="229" rect="500.316000,382.015400,628.316000,454.015400"
-/></highlight
-></annots
-><f href="T0000-0000-RS-001-1C_Ska1TmRequirementSpecification.pdf"
-/><ids original="1AC3D3B1A8C9995722D9F5C6B3BE8305" modified="D8E30D471FF44EFBA0CC5DCA641934E2"
-/></xfdf
->
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+  <annots>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095032Z00'00'" name="4515776b-0ec5-3746-a922-319d40bbd1cf" page="2" coords="99.183000,299.226500,135.639000,299.226500,99.183000,293.422100,135.639000,293.422100,164.482000,299.200700,250.282000,299.200700,164.482000,293.429800,250.282000,293.429800,288.741000,299.200700,306.533000,299.200700,288.741000,293.429800,306.533000,293.429800,376.060000,299.200700,489.412000,299.200700,376.060000,293.429800,489.412000,293.429800" rect="99.183000,293.422100,489.412000,299.226500" title="Santander-Vela, Juande">
+      <contents>Document Software Box: The version of the DocBook plugin, and of the related XSLT files for templating/personalisation for TM should be included, in this and the rest of Cameo-generated documents.</contents>
+      <popup open="yes" page="2" rect="493.412000,293.422100,621.412000,365.422100"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095047Z00'00'" name="b363be68-8207-7540-ab39-71468cdc9365" page="9" coords="72,747.768100,183.386900,747.768100,72,735.230700,183.386900,735.230700" rect="72,735.230700,183.386900,747.768100" title="Santander-Vela, Juande">
+      <contents>List of Tables: Regarding the issue of tables vs diagrams, there should be a clarification. It would be less confusing if the "diagram" included a table in graphical form, but because it is really in table form, the SysML link is lost.</contents>
+      <popup open="yes" page="9" rect="187.386900,735.230700,315.386900,807.230700"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608110648+01'00'" name="d9ad4442-ec0f-4e46-8d11-067cfca2f4a9" page="132" coords="131.990000,414.738600,168.670000,414.738600,131.990000,407.525000,168.670000,407.525000" rect="131.990000,407.525000,168.670000,414.738600" title="Santander-Vela, Juande">
+      <contents-richtext>
+        <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.16" xfa:spec="2.0.2">
+          <p dir="ltr">
+            <span dir="ltr" style="text-align:left;color:#0A0A0A;font-weight:normal;font-style:normal">TM_REQ_358, TBD118: Could this be brought into a TBC soon?</span>
+          </p>
+        </body>
+      </contents-richtext>
+      <popup flags="print,nozoom,norotate" open="yes" page="132" rect="172.670000,407.525000,300.670000,479.525000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608110656+01'00'" name="91d6a8cf-2139-6f44-a549-0adaa6e1c09d" page="132" coords="131.990000,363.738600,168.670000,363.738600,131.990000,356.525000,168.670000,356.525000" rect="131.990000,356.525000,168.670000,363.738600" title="Santander-Vela, Juande">
+      <contents-richtext>
+        <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.16" xfa:spec="2.0.2">
+          <p dir="ltr">
+            <span dir="ltr" style="text-align:left;color:#0A0A0A;font-weight:normal;font-style:normal">TM_REQ_358, TBD119: Could this be a TBC soon?</span>
+          </p>
+        </body>
+      </contents-richtext>
+      <popup flags="print,nozoom,norotate" open="yes" page="132" rect="172.670000,356.525000,300.670000,428.525000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608110743+01'00'" name="d4654263-bdf4-fb47-b651-19fd3f2b29c2" page="229" coords="437.966000,389.270900,496.316000,389.270900,437.966000,382.015400,496.316000,382.015400" rect="437.966000,382.015400,496.316000,389.270900" title="Santander-Vela, Juande">
+      <contents-richtext>
+        <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="Acrobat:11.0.16" xfa:spec="2.0.2">
+          <p dir="ltr">
+            <span dir="ltr" style="text-align:left;color:#0A0A0A;font-weight:normal;font-style:normal">TM_VREQ_29: Seems to verify TM_REQ_35, but that requirement has been removed from the T0000-0000-RS-001 document.</span>
+          </p>
+        </body>
+      </contents-richtext>
+      <popup flags="print,nozoom,norotate" open="yes" page="229" rect="500.316000,382.015400,628.316000,454.015400"/>
+    </highlight>
+  </annots>
+  <f href="T0000-0000-RS-001-1C_Ska1TmRequirementSpecification.pdf"/>
+  <ids original="1AC3D3B1A8C9995722D9F5C6B3BE8305" modified="D8E30D471FF44EFBA0CC5DCA641934E2"/>
+</xfdf>
