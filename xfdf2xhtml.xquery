@@ -1,6 +1,13 @@
 declare default element namespace "http://www.w3.org/1999/xhtml";
 declare namespace xfdf="http://ns.adobe.com/xfdf/";
 
+declare namespace functx = "http://www.functx.com";
+declare function functx:trim
+  ( $arg as xs:string? )  as xs:string {
+
+   replace(replace($arg,'\s+$',''),'^\s+','')
+ };
+
 <xhtml><body><table>
 <tr><th align="left">Issue #</th><th align="left">Section</th><th align="left">Page</th><th align="left">Author</th><th align="left">Observation</th></tr>
 {

@@ -1,1 +1,16 @@
-declare namespace xfdf="http://ns.adobe.com/xfdf/";//xfdf:highlight/xfdf:contents/text()
+declare default element namespace "http://www.w3.org/1999/xhtml";
+declare namespace xfdf="http://ns.adobe.com/xfdf/";
+<xhtml>
+<body>
+<ul>
+{
+for $h in //xfdf:highlight
+let $comment := $h/xfdf:contents/text()
+let $comment-richtext := $h/xfdf:contents-richtext/body/p/span/text()
+let $new_comment := concat($comment, $comment-richtext)
+let $tok := tokenize(string($new_comment), ":" )[1]
+return <li>{$tok}</li>
+}
+</ul>
+</body>
+</xhtml>
