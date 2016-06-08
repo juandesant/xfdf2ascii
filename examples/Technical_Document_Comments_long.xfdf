@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xfdf xmlns="http://ns.adobe.com/xfdf/" xml:space="preserve">
+  <annots>
+    <highlight color="#F8E29D" flags="print" date="D:20160608095217Z00'00'" name="68637cda-768c-d245-b419-ee5a8fe2cc2f" page="19" coords="166.609000,122.023300,428.665000,122.023300,166.609000,113.316700,428.665000,113.316700" rect="166.609000,113.316700,428.665000,122.023300" title="Santander-Vela, Juande">
+      <contents>Figure 1.8: This figure is pretty unreadable with the current layout.</contents>
+      <popup open="yes" page="19" rect="432.665000,113.316700,560.665000,185.316700"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095212Z00'00'" name="3be969a1-b2b3-9b42-a529-5d851dbd33ba" page="19" coords="231.289000,372.670200,363.985000,372.670200,231.289000,363.963700,363.985000,363.963700" rect="231.289000,363.963700,363.985000,372.670200" title="Santander-Vela, Juande">
+      <contents>Figure 1.7: Why does this figure contain the box with metadata? Consider removing it.</contents>
+      <popup open="yes" page="19" rect="367.985000,363.963700,495.985000,435.963700"/>
+    </highlight>
+    <stamp flags="print" name="68e8717e-b713-fa49-974b-329ab27c6580" icon="(null)" page="19" rect="262.364000,368.009400,266.364000,372.009400">
+      <appearance>PERJQ1QgS0VZPSJBUCI+CjxTVFJFQU0gS0VZPSJOIiBERUZJTkU9IiI+CjxBUlJBWSBLRVk9IkJC
+b3giPgo8SU5UIFZBTD0iMCIvPgo8SU5UIFZBTD0iMCIvPgo8SU5UIFZBTD0iNCIvPgo8SU5UIFZB
+TD0iNCIvPgo8L0FSUkFZPgo8TkFNRSBLRVk9IkZpbHRlciIgVkFMPSJGbGF0ZURlY29kZSIvPgo8
+SU5UIEtFWT0iRm9ybVR5cGUiIFZBTD0iMSIvPgo8SU5UIEtFWT0iTGVuZ3RoIiBWQUw9IjYzIi8+
+CjxESUNUIEtFWT0iUmVzb3VyY2VzIj4KPEFSUkFZIEtFWT0iUHJvY1NldCI+CjxOQU1FIFZBTD0i
+UERGIi8+CjxOQU1FIFZBTD0iSW1hZ2VCIi8+CjxOQU1FIFZBTD0iSW1hZ2VDIi8+CjxOQU1FIFZB
+TD0iSW1hZ2VJIi8+CjwvQVJSQVk+CjxESUNUIEtFWT0iWE9iamVjdCI+CjxTVFJFQU0gS0VZPSJJ
+bTE3IiBERUZJTkU9IiI+CjxJTlQgS0VZPSJCaXRzUGVyQ29tcG9uZW50IiBWQUw9IjgiLz4KPEFS
+UkFZIEtFWT0iQ29sb3JTcGFjZSI+CjxOQU1FIFZBTD0iSUNDQmFzZWQiLz4KPFNUUkVBTSBERUZJ
+TkU9IiI+CjxOQU1FIEtFWT0iQWx0ZXJuYXRlIiBWQUw9IkRldmljZVJHQiIvPgo8TkFNRSBLRVk9
+IkZpbHRlciIgVkFMPSJGbGF0ZURlY29kZSIvPgo8SU5UIEtFWT0iTGVuZ3RoIiBWQUw9IjMxMzMi
+Lz4KPElOVCBLRVk9Ik4iIFZBTD0iMyIvPgo8REFUQSBNT0RFPSJSQVciIEVOQ09ESU5HPSJIRVgi
+Pjc4MDFBRDk3Nzc1NDEzRDkxN0M3RUY5NDI0MTAxMjVBMjAwMjUyNDI2RjgyRjQyQQpCRDBCMEFE
+MjYxMkQ4NDI0NDAyODMxMDQ4MjhBREQ3NTU5MDVENzJFMTZBQ0U4QUE4OEFCQUUwNTkwQjUyMEVB
+REE1ODA0N0JERkE4OEJDQQpDQUJBNThCMEExRjI3QjEzMDhFRUQ5RjNGQkUzRjdDNzZGQ0U3OTZG
+M0U3M0RGN0Q3N0JFRjdDRTlCMzk2RjAwQjQzQ0Y4NTI2OTIxQUUwRAo1MDI0Mjk5NTI1NDY4NUYy
+RDIzMzMyNzkwQzA1OTBDMDAxNzVDMDgxRTAwQjRBQTQyMTA5MDk3MTgwMEVENTk5RTJBRkM3REIx
+QjgwNTE1Nwo1NzlEQTg1ODVGRURGRjEzRTkwODQ1MjUwMjAwMkMwMTc5NjcwQjRCMDQ0NTg4MEYw
+MzkwNDYwMkE5QUMxNDgwRDY4MUVDOTZEMzRBQTUxNApCRjQxQUMyNzQzMDIwMUU4NkExNEU3MEVC
+MjMxQzVEOTgzRUNBMkY0NDk0RTBDNDMzRUUxMDA2QTJDM0U1Rjk2MEJBMDQ5QzVFNzk1MDk3Mgo1
+MTFDNEQyOTYyMTc4OTUwMkM0MUJDMTU3MUEwMjA4RjJGNDRBQzQwM0NBQUE4NjgyQTYyMkQxNjYy
+QkJFQzdGQzRDOUZEMDdGM0Y5RDlDMwozMUY5RkNEQzYxMUVDQzA1Q0Q0NDM3MEUxNzk3NDgwQkY5
+MzM5NDE3RkZDRkFFQTg1MDhFRUFBNTNDMkM1MENGQ0E5MzQ1MjdBMkIzMUVBQQpEQkVFODJBOUIx
+MTQyM0VERDgzMTQ5RjZGODc4QzRCQTg4Q0Y4QjUxNDY0MzdDMjc0RjFFOUQ4Mjk4RjJFRjExOTQ4
+NEExNUEwMjE3RDA4MwoxNkYyQzM2MzExQTM1QUUyNUM3OTQxNEFDODEwQkJGMTY1ODg5NEZFRjg3
+ODcxNjk0Q0YyMTA2N0NCQTYyNjBFQzVDN0NCMjQ4NUUzQTlGNQo0MUM1NTk5NDI3OEE1MUYxNjY1
+MTQ5NDQxMkIyMjMwRDc4NTk4RTM4MzIwNkIxMzZFMkMzRTU3OUM5Njk4ODkxNEVGQzRDOTkzODc1
+M0M2Mgo0REM0MUQyNTA1NDk5NDA2MkFDRTgzRjJCQzMwQ0FBRUY0OTFDOTEzMjlDRDU2QzhGRTI2
+NDcxNjQ5RTU4ODdDMDg4M0EyMTI0NENBRjg4NApCMzgwQUZCQzk3MDFCMjA3OTdFNjI1NDcyMzNC
+OUE0QkE0OEI0QUQyMjkzRDRBMEQ0MjUxNzgwNDYyQTQ4MTEwOEEyNDI5NDNEQTA4QjRCQQo0MkE5
+OThENERDMEE2OUExNzJBRDIzN0Y2MkIzQTgzMDhBQjJBMzNBMTMwNzRBQ0E5MjU0NzNBRjk0Q0E5
+MjI5M0JBQTIxRjEyODlGM0Y5Ngo1QTVCNDgzRkYxNTY1QTlBNDBENTA3NjkyMzQ5ODg4MzMwMDgw
+NzFFQzg1MUNCODZBOTkwMEZFMkY2OUVDNjFFNzQzNTM4MTIwOTdDOTA0MQoyRTg4QzA2OUM4QTI5
+QTkxQTYxQzkxQTAzRTA5Q0FFMTJGOTAyMDlGOTJFMTc5QTFDQTUxMTE5NDIxRkJFNzYxRUJFMDVD
+MjdDODUxOEU5NgoyOTY3MTRDMDEzNzQ4NzIyRDI4ODBDMjRGREM5MzhENDA3QTNFNjQ2RkE5MEJF
+QUE3OTNDMkQ5NTRFN0EwNDNEOUMxRTREOEZBNERCQUIyQwoyMDQwQUEwQjUxOTM4MUY4QkZEODYy
+RDE5ODA4NjUyNzQzQkQ0NDk1QzNENzc4QjQyN0I0NEVEQTIzREE3NTlBODI3NjFCNTJFMTBGNjU5
+NApBMTRDQTc4ODE3Qzg1NDBBODYyMzhGMDMwNThBMzY1ODE1MTFBQTk4MDRCQTU1M0VBNDBENTJF
+RDQ5ODY5MjAxNDgzRkQyNEU3MjQ5MjM3MAoyMjNENTAyNjIxNjQxMENBQ0QxMzU5NTVENUEzNTRD
+Qjg3QjU3REFEQTVBQUVFMkEzRjRBMzVFRjFGMzkwRUQ5MzUxRDM0M0Q4NzU0NjRBQgpCMjQyNEY1
+MjU1ODk3RjQ3RjkzQTIyMDYyMUYyOEFGREI3MjdCMTg4Mzg0NDlDMjM0RTExMTc4ODYzNDQyM0Yw
+ODg5MzQ0MTNEMTQ2MUNBNwo3ODQ4NzNBNEIyM0FCOUMzNzc0QjU0NTZCNDAwRTUyMDU2RjlCOEQ0
+QkI3NEJCN0M1MjVEMERFN0NBNDcxNjRBMDFGNTBDRDBCQjUwMkE5QQo1RThBRDYxRjg0NEQ5NUNF
+OTA4OTczRjM0QTc5MjFFODhCMkNFMkM1NDgwNENFQTM3ODZFMkVBRTVFMDBENEY3OURGMjAxNzhD
+RDU1N0VCNwozMUVFQzVBRkI2RTIxNjAwREY0QUY0NkRBMDNFQUQzQ0NBMEI4MDZGMDk3MEY0MDkw
+MEU3RUQ1NzlCRTUyQkY0N0EyRDA3MzhERTIxOTBDQgpDQTA2RkQ0OEVBNDQwMzI2NjhBMTM3QzMx
+MDRDQzExMkVDNTA0RTZFRTAwNUZFMTAwQzExMzAxNkUyMjExOTMyNjAzMkFBN0ExRTE0MjFENQpE
+MzYwMTZDQzg3MEFBODgyRTVCMDA2MzZDMDE2RDgwRUJCRTEyNzM4MDg4RDcwMEM0RUMxQUY3MDA5
+M0FFMDNBREM0NTZCQTMwQjlFNDMyRgpCQzg1N0UwQ0MzMTgxODFCRTM2MDg2OTgxOTY2OEQzOTYy
+NkU5ODBGMTY4ODQ1NjA3MTU4MjI5NjgxNjU2MUI5OTgwNDkzNjNCM0IwNkZCMQoyQTZDMjVCNjAx
+REI4NkQ1NjEzRjYzNDdCMTUzRDgwNUFDMTNCQjhEM0RDNEJBQjE1N0Q4NDc5Q0MwNTlCODFFNkU4
+MkRCRTBBMzcxMUYzQwowNDhGQzU5M0YxNDk3ODJFNUU4Qzk3RTMwQkYxQTVGODNBQkMxNkRGOEIz
+N0UwQTdGMDRCRjg3NTVDODEzRkM3RkIwODIwMzQwODJFNjE0RQozODExM0U0NDE4MTE0RjY0MTIz
+OTg0OEM5ODQzNTQxMkQ1NDQyREIxOEY2ODQ2Q0ZGQTJBQTEyMDdBODgwRjI0OURFNDkwM0NEMjA5
+QURDRgo2ODMyODUxNDkwQzVFNDFDNzIwOUI5ODFEQzREMzY5MDY3QzhBQkU0NDNCMjk3RkM0MjYz
+RDM4QzY5OEUzNDNGNUEwQzJEOUQ5NjRCOUI0NgpBQkEwNTVEMzc2RDI4RUQwQ0VBMjc3QTc4QkY2
+OTY0RUE3NzNFOUI2NzQ2RkY0NkU2NkQwRjNFOTMzRTk0QkU4OUJFOEZCRTkyREY0NEVGQQo2MzdB
+MUY4M0MxMzA2NDM4MzIwMjE4RjEwQzNFQTM5NDUxQzE1OENGRDhDQjM4QzlCOEMyRTg2MkJDNTdE
+MzUwMzM1MzczNTM4QjU0Q0I1NAo5M0E4MkQ1MEFCNTZEQkEzNzY0MkVEOEFEQTUzQjU3RTc1NkQ3
+NTZCNzUzRkY1Nzg3NUExRkEwQ0Y1NjVFQTNCRDQ5QkQ1MkZBQjc3QTlGNwozMzc1OThCNkNDMDA2
+NjMyMzM5RjM5OUZCOThFQjk4Rjc5OTY3OThGRjk1QTQzNDNDMzQyQzM1NzYzODI4NjU4NjM5RUM2
+M0E4RDAzMUFFNwozNTFFNkE3QzYwRTlCMjFDNTg2MUFDODkyQzM5NkIyOTZCMTdBQjg1NzU5QkY1
+OUFDRDY2REJCMDgzRDk5OUVDNTJGNjUyNzYxREZCMzRGQgowMUZCQkQyNjQ3RDM1OTMzNDY1M0E4
+Mzk1N0IzNDZCMzQxRjM4QUU2MEIyRDc1MkQ2QkFEMTBBREM5NUFFNTVBRDU1QTg3QjQyRTZCRjU2
+OApBQjZCREI2ODg3NjlGM0I1RTc2OEQ3NjgxRkQ1QkVBOUREQTdDM0QxNzFENTg5RDcyOUQyNTlB
+MkIzNDdFNzgyQ0UzMzVEODZBRThENkU4NApBRTUwNzdBMUVFNzZEREQzQkE4RjM5MDRDNzkyMTND
+NjExNzBCRUU1RUNFMDlDRTU3NEU5RDFGNTZDRjU2MkY0RjJGNUFBRjQ3RUQyNkJENwpFQkQ1RDdE
+NUY3RDA0RkQ1OUZBRTVGQTM3RjVDNUZDMTI1QjgzNkRDMTg2RTIxNzcxOUY3MjBGNzA2RjdFMzA4
+OTMxMTIxMjM0NDIzMTY4RgpEODM3RTJDQTg4NzcwNjIzMEQ4MjBENDQwNjk1MDZGQjBEQUUxQjdD
+MzRFNDE5NDYxODE2MThBRTMwNkMzNEJDNkY0NDFBMzkxODREMzA5QQo2NkI0RDlFOEFDNTFDRjQ4
+QkQ5MUZFMjMwNTIzMkI0NzFFMUM3OUM3MTgzNzc2MzA0RTM0OUU2OUJDRERCOENEQjhDRkM0RDQy
+NENBNDQ2QQpCMkRFRTRCNDQ5OEYyOUQ3MzREODM0REY3NEI1RTkwOUQzNkUzMzhFNTlBMDk5RDg2
+Q0I1RDk0OUIzM0Y3OUZBQkMxMDVFMjE2RjFERUYwQwpBRkQ3RENEODNDREE1QzZFQkVDREJDRERC
+Q0RGQzJENjIyQzU2MjgxQzU3RThCRkI5NjRDNEIxRkNCMUNDQkQ1OTZBRDk2QkQ1NjY2NTZFMwpB
+QzY2NTlENTVCRERCMTU2QjdGNkIxQ0VCMzVFNkI3RENFRkE5RDhEQUQ0RDlBQ0RGNzM2OEQzNkNG
+NkMwRDZDNjM2Q0NCNkRFQjZERUZEOQpCMUVEODJFQzhBRUQ2QUVEQUVEOUQzRUQ3REVDMEJFQzM3
+RDk3NzM4RTAwRTlFMEU3OTBFMzUwRTk3MUQ3MTQ3MkY0N0IxRTMyNkM3Q0U1MQpCNDUxQkVBMzI0
+QTM2QTQ3REQ3NDYyMzk4NTM4OTUzOUQ1M0IzRDc0RTYzQUM3MzkyRjcwNkU3NDdFMzFEQTZBNzRF
+NkU4MTVBM0NGOERGRQpFMkUyRTk1MkU4QjJDM0U1QUVBQkFFRUI1OEQ3MDVBRUNEQUVBRkRDMUNE
+QzA0NkUzNTZFRDdEQ0Q5RUU5MUVFNzNERDlCREM1RjdBMzg3QQo4ODNDMzY3QkRDRjJFNDc4OEVG
+M0ZDREVCM0Q1RjNCMzk3Qjc5N0NDNkI5RjU3QjdCNzk1Nzc5NkY3NDZFRjlCM0U3QTNFMDkzRTRC
+N0NDRQpGQkQyN0M0MzdERTdGQTFFRjNGREUwRTdFNTU3RUE3N0QwRUY2RjdGMjdGRjAyRkYzREZF
+Q0ZDNkQ4OEUxMThERDkzMUU2NzE4MDQ1MDAzRgo2MDVCODAyMjkwMTc5ODE1QjgzNTUwMTE2NDFF
+QzQwRkFBMEQ3QTE0NkMxOTJDMENERTE5RkMzNEM0M0UyNDNGNjQ2RkM4OEI1MDk3NTA1OQpFODkx
+RDA3NzYxN0U2MUIzQzM1QUMyODlGMEE4RjBDQUYwRjYwOEREODg5NDg4MEQxMTBGMjIyRDIyNzMy
+M0VCMjM3QkEzM0NBMzY2NDZCNQo0NEQzQTI2M0EzNTc0NERGOEMzMTg5MTFDNEQ0QzVGNDhFRjUx
+RTNCN0JFQzk5NTg1NjZDNTJFQzg2RDg0NzcxMEU3MUIyQjhFNjcxRjhCOApCMUUzNTY4REJCMzdE
+RTdBQkM2NDdDNjMzQ0M0QzdDNEFGOEFCRjlGNjA5QjUwOUNGMENCMDRGQTg0ODQwOTM1MTM5RTI0
+QkEyNkNFNEEzQwo5N0M0NDk5QTkyQjQyN0U5NkQ3MjY4RjJCMkU0QkIyOTc2MjlGMjk0RDY1NEFE
+RDQ4OUE5NzVBOUVGRDJDMkQzNTZBNjI5RDI0N0E3Q0Y0RQpCRjk0NjE5NDIxQ0U2OENBNjQ2NEE2
+NjZFRUNDRUNGQjI2RTI5QjM1REY3NDRERjQ5QzU4MzFGMUM2MjREQjQ5RDMyNzVEOTg2QzM0Qjk3
+MApGMkYxMjk1QTUzRjg1MzBFNjVEMUIyRDJCMkY2NjQ3REUyQzdGMzZCRjk3REQ5MzFEOTFCQjM3
+QjA1NjE4MkI1ODJFN0MyNjBFMTZBNjFCNwoyODQwQjQ1MkY0MzQyNzIwNjc2NUNFQjNEQzgwREM1
+NUI5REQ3OTQxNzlENTc5M0RFMjMwRjEwNkYxQ0JGQ0U4RkMyREY5RUYwQUUyMEI3NgoxNTBDMTRB
+NjE1RUUyRjUyMkJDQTJBM0EyQUQxOTUxNDQ4Q0U0QzM1OUQzQTdENkFBN0Q0NTE1QTIxNTUxNEZC
+MTVBRjI5RUU5NUM1Q0E3Ngo5NjYwMjU5MzRBOUE0QUY1RDA1NkE3NEQ2RTI3RkY0RUZFQjAyQ0Iw
+QUNBNkVDRkRCNEQ0Njk4N0E2RUI0Qzk3NEM2RjlCRTEzMDYzRjE4QwpBN0U1OTFFNTNGQ0UyNDY3
+MEE2NkI2Q0UzMjlGMzU3RkQ2QzNEOTIxQjNCN0NEQzFFNjY0Q0Y2OTlENkIzOTc3RTFEQ0FFNzk1
+MUYzNzZDRgo2N0NFMkY5OEZGREIwMjk3MDUyQjE3QkNGOTM2RUREQkU2ODUyNjBCRTcyRDdDRkM1
+REQ0NzdGNTE1OUExNUIyOEE5QkRGRkI3RkJGNjUxMQpCOTQ4QkNBODdEQjFGQkUyRjU4QkJGNTQw
+QTJCMkY1NkI5NTQ1NTU3N0Q1QTIyNTg3MkYxMDdENzFGRDZGRDMwQjAzNDY3NjlGQjMyQUY2NQo5
+Qjk3RDM5NzRCOTZERjU4MTFCNDYyRjc0QTlEOTVFNTJCMUZBRjFBQjdBQTYxMzU2Rjc1RTVFQTM3
+NkJBNkFDQjk1MEVENTFCRDY1MkQ3MwpBRDdDQUQ2MjVERENCQUE2RjU1NkVCOTdBRkZGQjQyMTZG
+QzNGNTlBRDA5QUZEMUI4RDM3MkVERUY4NkU5MzcwRDM5NUNEQzE5QkY3NkQzMQpEOTUyQjVFNUUz
+NTZGMUQ2NUJEQkEyQjYzNUQ0REFENDU2NkZBNzZGMkZEQkZFNjQ0N0VBOEU3MzNGRkFGQzU4QjdE
+MzY4NjdENUNFQ0ZCQgoyNEJCMTRCQjEzNzc5RkE5RjNBRUFCREI2M0JDNjc1OTNENUUyRkFGRUZE
+RTNCNzE2RkM3NEZFMTNGMzVFRDczREFCNzZEM0Y3NzdGRDUwMQozODIwM0ZGMEU3Q0Y1OTNGREYz
+ODE4N0JCMEY1OTBDRkExN0Q4N0FEMEY2RjNDQzIzOTUyRDk4MDM1Q0M2OEU4NkRDQzZCNTQzNDY1
+MzQ3NQoxRTFEN0JCNEI1RDlCRkY5QzgyRkNFQkZFQzNBNjY3RUFDRTZCOEZFRjE2NTI3OTgyNzE2
+OUUxODM4NTk3RUIyQUY0NURBRDI3MzJBRjdENApFM0Q2MjlBRDc3NEZBNzlGQkU3NjY2QzI5OUY2
+QjNCMTY3Q0ZGRjFBRjlFQkU5NzMyMUU3NEU5RTBGMzg3RkVDODJERjg1QTMxNzdEMkUzNgo1RUYy
+QkFENEQwRTZEOTc2RTQzN0NGREY4RUI0N0JCNTM3NUNGNkJFRENENEUxREJEMURDMzlBNkYzQzQ5
+NUEwMkJBN0FFODY1RkZERjU1QQpDQ0I1NEJEN0M3NUZFRkJDOTE3MkUzRDZDRDg5MzcxNUI3ODRC
+NzlFREQyRUJDRkRGMjRFRDk5REZFQkJGM0VFRDFFRTU1REVEN0JFNUZGRApDMEY4NDFFREVGRjZC
+RkVGNTc3ODI5OEUzRjBDN0ZEOEY2MjhFOUQxRERDNzgyQzdDRkZGMjhGOUUzNTNEN0MyMjdFQzI3
+RDU0RkNEOUVENgozRDczN0I3NkFDM0JCMkJCRTNDRjZGRkVFQzdBMkU3RERFREY1M0YxOTdDRTVG
+MUI1RkQ4QkQzOEZDNzdGMERGNkRCREU5QkQ1RDJGNjUyRgowNzVFMkQ3OTZERjg3QUQ3MUI4RjM3
+QUQ3RDA5N0QwRkRFMTZCREVEN0Y1N0Y5REVGMEZERUUwRjNFMUZDRTdENENGQkY4QjQ3RkRBMjdD
+NgpBNzc1OUZFRDNGMzc3Rjg5RkQ3MjZGQTA2ODYwNDBDQTk3RjE5NTdCMDEwMkY1Nzg0RTBFQzBB
+QjVEMDBFQzBDQjQ3N0U4MDA2MDZBMEVGRQo3RjI5M0RCMEMxN0Y0NkM0RDg1MEEzQ0NGRkUyQzE3
+RjM0NkEwMEVEMjE2MDU3MzA0MENBM0M4MEI4MTY4MENEQTg1OTIzNjZBMTMzQjVGRAo0RTBFMDZE
+Q0REN0RCODIxMEI3NTk0RTRCOEJCMjkwMTYzQzlEMEQ2RTRGREMwQzA2QjEzMDA0NjMzQzA2N0Q5
+QzA0MEZGQTY4MTgxQ0YzQgpEMEJFRkQzNjQwNEJGMUUwN0YxRkU1NERENzA2RDg2QTQ4NTFEQjRE
+ODRGRjNBRkUwMzBERkI2QzMyPC9EQVRBPgo8L1NUUkVBTT4KPC9BUlJBWT4KPE5BTUUgS0VZPSJG
+aWx0ZXIiIFZBTD0iRmxhdGVEZWNvZGUiLz4KPElOVCBLRVk9IkhlaWdodCIgVkFMPSIyNCIvPgo8
+TkFNRSBLRVk9IkludGVudCIgVkFMPSJQZXJjZXB0dWFsIi8+CjxCT09MIEtFWT0iSW50ZXJwb2xh
+dGUiIFZBTD0idHJ1ZSIvPgo8SU5UIEtFWT0iTGVuZ3RoIiBWQUw9IjI3Ii8+CjxTVFJFQU0gS0VZ
+PSJTTWFzayIgREVGSU5FPSIiPgo8SU5UIEtFWT0iQml0c1BlckNvbXBvbmVudCIgVkFMPSI4Ii8+
+CjxOQU1FIEtFWT0iQ29sb3JTcGFjZSIgVkFMPSJEZXZpY2VHcmF5Ii8+CjxOQU1FIEtFWT0iRmls
+dGVyIiBWQUw9IkZsYXRlRGVjb2RlIi8+CjxJTlQgS0VZPSJIZWlnaHQiIFZBTD0iMjQiLz4KPEJP
+T0wgS0VZPSJJbnRlcnBvbGF0ZSIgVkFMPSJ0cnVlIi8+CjxJTlQgS0VZPSJMZW5ndGgiIFZBTD0i
+MjIyIi8+CjxOQU1FIEtFWT0iU3VidHlwZSIgVkFMPSJJbWFnZSIvPgo8TkFNRSBLRVk9IlR5cGUi
+IFZBTD0iWE9iamVjdCIvPgo8SU5UIEtFWT0iV2lkdGgiIFZBTD0iMjQiLz4KPERBVEEgTU9ERT0i
+UkFXIiBFTkNPRElORz0iSEVYIj43ODAxNjM2MEEwMTRENEJGQkY2NDhBQzU4Qzk4RkZGRkZGNUZD
+MzE0MTc3RDAzMTQKN0Y4MjI5QkUxQzI4RkNCRjA4NDNEQzFCMjQ3QzhBMTk1RDlDRjczMTUwRjg5
+NzBFQkEzMEMzMzQ5MEYyMDYwQzYxOUI3RjQwRTEyQjZDRTgKRTJFQzM3ODBDMjdGQ0REMTg1MTk1
+QTQxQTZGNDQyODU5OTc5NjFGMkZBQkY4MUMyNzdCOTIwNUM4Rjk3RkY3NzA5ODA5OUNDNjc0MENB
+MUQKQTFBQTFFMDJEOTNCOTk0MDlDNTI5MEYwMkNBODMwQzM3RDEwQUYwM0M4NTNGRTA2NjQzQ0U1
+ODc4OTA3ODM5Q0Y2M0Y4NDgxNjExRjg4RjYKODMwOTMzMzA1NDgzRjg5RkI1NTM0MEQ0NzI4NDMw
+MDNDMzIyOTBDOEVERjc0MEUyQjUyOEIyMzhGQjExOTAwNDA4NDQyMzBCMzMzMDg4REUKODMwODZG
+NDExNTY2NjBEMEZBMDg5MkY4Mjg4MzJFQ0VFMEZFMDcyODlFODEyMUNDQzAxMEYxRTQyM0M4MEY0
+ODAwMDA2MzY3OEUyMzwvREFUQT4KPC9TVFJFQU0+CjxOQU1FIEtFWT0iU3VidHlwZSIgVkFMPSJJ
+bWFnZSIvPgo8TkFNRSBLRVk9IlR5cGUiIFZBTD0iWE9iamVjdCIvPgo8SU5UIEtFWT0iV2lkdGgi
+IFZBTD0iMjQiLz4KPERBVEEgTU9ERT0iUkFXIiBFTkNPRElORz0iSEVYIj43ODAxNjM2MDE4MDVB
+MzIxMzAxQTAyQTMyMTMwMUEwMkEzMjEzMEY0NDIwMDAwMDYKQzAwMDAxPC9EQVRBPgo8L1NUUkVB
+TT4KPC9ESUNUPgo8L0RJQ1Q+CjxOQU1FIEtFWT0iU3VidHlwZSIgVkFMPSJGb3JtIi8+CjxOQU1F
+IEtFWT0iVHlwZSIgVkFMPSJYT2JqZWN0Ii8+CjxEQVRBIE1PREU9IkZJTFRFUkVEIiBFTkNPRElO
+Rz0iQVNDSUkiPnEgUSBxIDAgMCA0IDQgcmUgVyBuIC9QZXJjZXB0dWFsIHJpIHEgMiAwIDAgMiAx
+IDEgY20gL0ltMTcgRG8gUSBRPC9EQVRBPgo8L1NUUkVBTT4KPC9ESUNUPg==</appearance>
+      <popup flags="print,nozoom,norotate" open="no" page="19" rect="595.275024,252.009399,775.275024,372.009399"/>
+    </stamp>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095229Z00'00'" name="58374d9c-aaca-3941-96bf-0d883f27801d" page="35" coords="177.538000,729.384000,250.888000,729.384000,177.538000,719.384000,250.888000,719.384000" rect="177.538000,719.384000,250.888000,729.384000" title="Santander-Vela, Juande">
+      <contents>Term DG: Director General → Director General (of the SKA)
+
+We don't want random DGs with power here 😉 </contents>
+      <popup open="yes" page="35" rect="254.888000,719.384000,382.888000,791.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095246Z00'00'" name="1c4a10be-07d6-fb45-906e-af5d3fc68547" page="43" coords="181.084000,190.884000,503.994000,190.884000,181.084000,180.884000,503.994000,180.884000" rect="181.084000,180.884000,503.994000,190.884000" title="Santander-Vela, Juande">
+      <contents>Term User: Consider listing here the different "User"s identified; i.e., Sub-Array Control Authority, Assessor, etc. Also, make sure that Actor and User are not being conflated, as all Users are Actors, but not all Actors are users.</contents>
+      <popup open="yes" page="43" rect="507.994000,180.884000,635.994000,252.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095256Z00'00'" name="43af3650-0fca-cb4d-be3f-fc84c3a414ba" page="53" coords="101.594000,549.384000,199.954000,549.384000,101.594000,539.384000,199.954000,539.384000" rect="101.594000,539.384000,199.954000,549.384000" title="Santander-Vela, Juande">
+      <contents>Source characteristics: Resolution of Issue #27 is not clear; but I don't see a problem with going forward.</contents>
+      <popup open="yes" page="53" rect="203.954000,539.384000,331.954000,611.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095310Z00'00'" name="c3d030a0-295a-4846-a086-59584f20c147" page="53" coords="89.924000,309.384000,364.026000,309.384000,89.924000,299.384000,364.026000,299.384000,89.924000,294.384000,364.019000,294.384000,89.924000,284.384000,364.019000,284.384000,89.924000,279.384000,199.984000,279.384000,89.924000,269.384000,199.984000,269.384000" rect="89.924000,269.384000,364.026000,309.384000" title="Santander-Vela, Juande">
+      <contents>Note 1: This goes against the idea that the proposer can provide his/her own name for the source (specially important for some kinds of observations).</contents>
+      <popup open="yes" page="53" rect="368.026000,269.384000,496.026000,341.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095302Z00'00'" name="d211f6d0-c9e2-cc44-9dcb-6eeaaa486c76" page="53" coords="101.594000,414.384000,146.604000,414.384000,101.594000,404.384000,146.604000,404.384000" rect="101.594000,404.384000,146.604000,414.384000" title="Santander-Vela, Juande">
+      <contents>Sensitivity: For resolving Issue #53 this should be "Estimated sensitivity."</contents>
+      <popup open="yes" page="53" rect="150.604000,404.384000,278.604000,476.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095326Z00'00'" name="d859107d-09dd-cb49-a3da-6ca16061ed12" page="54" coords="72,301.674600,351.972000,301.674600,72,293.693500,351.972000,293.693500" rect="72,293.693500,351.972000,301.674600" title="Santander-Vela, Juande">
+      <contents>Section 3.1.2.1.2: I don't see here how Issue #29 (carry over of proposals to cycles) is tackled in this section. Shall I understand TM's position as not dealing with proposal carry over? I think, at least, the validity of a proposal for a given cycle should be there.</contents>
+      <popup open="yes" page="54" rect="355.972000,293.693500,483.972000,365.693500"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095317Z00'00'" name="b38250d5-bd19-284b-b102-44be1d611137" page="54" coords="341.809000,505.884000,364.029000,505.884000,341.809000,495.884000,364.029000,495.884000,89.924000,490.884000,184.394000,490.884000,89.924000,480.884000,184.394000,480.884000" rect="89.924000,480.884000,364.029000,505.884000" title="Santander-Vela, Juande">
+      <contents>Time Allocation Committee: this could be also Sci Ops. The TAC only lives during a limited time; responsibility falls for Sci Ops after that.</contents>
+      <popup open="yes" page="54" rect="368.029000,480.884000,496.029000,552.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095336Z00'00'" name="04ea20dc-0033-ec49-8e1c-b62a84e93506" page="56" coords="90.062000,664.884000,153.972000,664.884000,90.062000,654.884000,153.972000,654.884000" rect="90.062000,654.884000,153.972000,664.884000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_327: Apart from the SBs, there might be full proposals not passing validation; should there not be a validation flag?</contents>
+      <popup open="yes" page="56" rect="157.972000,654.884000,285.972000,726.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095348Z00'00'" name="bed66e7e-e352-9244-bffc-8fe5b55b8a65" page="59" coords="89.924000,278.884000,153.834000,278.884000,89.924000,268.884000,153.834000,268.884000" rect="89.924000,268.884000,153.834000,278.884000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_308: I think the wording is still confusing. Can you link to the concurrency table/diagram?</contents>
+      <popup open="yes" page="59" rect="157.834000,268.884000,285.834000,340.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095358Z00'00'" name="1b8dfeab-7a94-c142-a2eb-92333281b460" page="64" coords="72,193.077000,364.900000,193.077000,72,183.077000,364.900000,183.077000" rect="72,183.077000,364.900000,193.077000" title="Santander-Vela, Juande">
+      <contents>Section 3.1.3.1.2.3: These requirements don't seem to cover issue #57, contrary to the resolution.</contents>
+      <popup open="yes" page="64" rect="368.900000,183.077000,496.900000,255.077000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095438Z00'00'" name="713130ea-69d2-b74d-aab1-ebb611f7e087" page="67" coords="272.897000,418.884000,330.354000,418.884000,272.897000,408.884000,330.354000,408.884000" rect="272.897000,408.884000,330.354000,418.884000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_261: First mention of carry over; see other issues on observation carry over from cycle to cycle.</contents>
+      <popup open="yes" page="67" rect="334.354000,408.884000,462.354000,480.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095456Z00'00'" name="a3882134-a062-7044-83f6-b341657540df" page="69" coords="116.838000,718.384000,241.686000,718.384000,116.838000,708.384000,241.686000,708.384000" rect="116.838000,708.384000,241.686000,718.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_265: DocBook export artefact, see if you can solve it.</contents>
+      <popup open="yes" page="69" rect="245.686000,708.384000,373.686000,780.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095510Z00'00'" name="7d4ac632-778c-2d42-8da0-b5fb400d8d97" page="71" coords="190.652000,506.384000,212.482000,506.384000,190.652000,496.384000,212.482000,496.384000" rect="190.652000,496.384000,212.482000,506.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_337: SB's → SBs</contents>
+      <popup open="yes" page="71" rect="216.482000,496.384000,344.482000,568.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095521Z00'00'" name="6fd9440d-6de8-4d45-be8c-8f0d31c32407" page="71" coords="216.578000,428.384000,236.828000,428.384000,216.578000,418.384000,236.828000,418.384000" rect="216.578000,418.384000,236.828000,428.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_337: SB's → SBs</contents>
+      <popup open="yes" page="71" rect="240.828000,418.384000,368.828000,490.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095532Z00'00'" name="e38bd0d3-b1e3-5141-9a65-355675542273" page="72" coords="165.950000,753.134000,187.780000,753.134000,165.950000,743.134000,187.780000,743.134000" rect="165.950000,743.134000,187.780000,753.134000" title="Santander-Vela, Juande">
+      <contents>Section 3.1.3.1.4.2: SB's → SBs</contents>
+      <popup open="yes" page="72" rect="191.780000,743.134000,319.780000,815.134000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095539Z00'00'" name="8590388d-2c53-b244-839e-1b533ef5a0f3" page="75" coords="90.062000,431.384000,153.972000,431.384000,90.062000,421.384000,153.972000,421.384000" rect="90.062000,421.384000,153.972000,431.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_101: Issue #72 seems not to be solved, probably needs an additional requirement. Something like "The TM, when in Automatic Execution Mode, and if resources are available, shall look for scheduling blocks from the Medium Term Schedule that maximise observing time of high-priority science, if they have higher scoring that scheduling blocks in the Short Term Schedule".
+
+I recognise this is difficult, and we might want to wait for the next release, but this should be noted.</contents>
+      <popup open="yes" page="75" rect="157.972000,421.384000,285.972000,493.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095553Z00'00'" name="293e9969-3938-c94f-a8ac-763737e450f6" page="76" coords="138.972000,117.384000,179.532000,117.384000,138.972000,107.384000,179.532000,107.384000" rect="138.972000,107.384000,179.532000,117.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_206: Issue #74 indicated the need for allocating to OBSMGT as well.</contents>
+      <popup open="yes" page="76" rect="183.532000,107.384000,311.532000,179.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095615Z00'00'" name="c1f359b9-9f21-a346-a978-3178b4cc64e4" page="77" coords="90.062000,328.884000,362.411000,328.884000,90.062000,318.884000,362.411000,318.884000,90.062000,313.884000,362.410000,313.884000,90.062000,303.884000,362.410000,303.884000,90.062000,298.884000,362.401000,298.884000,90.062000,288.884000,362.401000,288.884000,90.062000,283.884000,331.292000,283.884000,90.062000,273.884000,331.292000,273.884000" rect="90.062000,273.884000,362.411000,328.884000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_207: Add to the rationale something like. "That monitoring capability is also useful during automatic execution." to satisfy Issue #74</contents>
+      <popup open="yes" page="77" rect="366.411000,273.884000,494.411000,345.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095628Z00'00'" name="0fcb9ea5-7766-f947-8403-61fe9418b274" page="78" coords="300.565000,538.369000,326.761000,538.369000,300.565000,526.369000,326.761000,526.369000" rect="300.565000,526.369000,326.761000,538.369000" title="Santander-Vela, Juande">
+      <contents>Table 3.14 title: SB's → SBs</contents>
+      <popup open="yes" page="78" rect="330.761000,526.369000,458.761000,598.369000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095639Z00'00'" name="3885df62-7b6e-d246-a86d-3bf9ffcaa8f2" page="79" coords="104.497000,718.384000,318.635000,718.384000,104.497000,708.384000,318.635000,708.384000" rect="104.497000,708.384000,318.635000,718.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_110: There is probably need for a requirement that indicates that TOO observations will be submitted as a kind of Science proposals.</contents>
+      <popup open="yes" page="79" rect="322.635000,708.384000,450.635000,780.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095718Z00'00'" name="90e94067-3432-fe4a-8c49-639abdd64be9" page="86" coords="115.082000,676.384000,232.332000,676.384000,115.082000,666.384000,232.332000,666.384000" rect="115.082000,666.384000,232.332000,676.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_178, item 4 (visibility time resolution): Issue #35 still not solved with this wording.</contents>
+      <popup open="yes" page="86" rect="236.332000,666.384000,364.332000,738.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095723Z00'00'" name="4af2bd3b-2938-0f45-8134-6e4353c99b9c" page="96" coords="90.062000,475.984000,148.412000,475.984000,90.062000,465.984000,148.412000,465.984000" rect="90.062000,465.984000,148.412000,475.984000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_24: Where is the equivalent requirement for LMC, as indicated in the resolution for Issue #115?</contents>
+      <popup open="yes" page="96" rect="152.412000,465.984000,280.412000,537.984000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095739Z00'00'" name="7f620d18-df45-b84a-9c78-7b5f5186dda9" page="100" coords="270.678000,99.646000,357.800000,99.646000,270.678000,89.646000,357.800000,89.646000,90.062000,84.646000,354.466000,84.646000,90.062000,74.646000,354.466000,74.646000" rect="90.062000,74.646000,357.800000,99.646000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_268: Regarding issue #87, this should be an Actor, not an User.</contents>
+      <popup open="yes" page="100" rect="361.800000,74.646000,489.800000,146.646000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095746Z00'00'" name="1abe1c35-79e2-384d-9497-833f006f7d20" page="114" coords="90.062000,367.384000,153.972000,367.384000,90.062000,357.384000,153.972000,357.384000" rect="90.062000,357.384000,153.972000,367.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_224: Criticality of requirements not visible. Notice by looking at Issue #240
+
+</contents>
+      <popup open="yes" page="114" rect="157.972000,357.384000,285.972000,429.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095755Z00'00'" name="666f7b8d-b260-ee49-9643-2dab8f6e2b69" page="123" coords="72,609.263000,112.032000,609.263000,72,597.263000,112.032000,597.263000" rect="72,597.263000,112.032000,609.263000" title="Santander-Vela, Juande">
+      <contents>Section 3.1.4.2: Please, retain the removed requirements, they are useful for scoping the ILS; need to speak with Corrie.</contents>
+      <popup open="yes" page="123" rect="116.032000,597.263000,244.032000,669.263000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095815Z00'00'" name="e59561c2-2380-e345-9d19-7facdaca381d" page="132" coords="208.294000,718.384000,313.888000,718.384000,208.294000,708.384000,313.888000,708.384000" rect="208.294000,708.384000,313.888000,718.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_45: Add historic data requester to the list of terms with definition.</contents>
+      <popup open="yes" page="132" rect="317.888000,708.384000,445.888000,780.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095901Z00'00'" name="2d51b996-126f-bd4d-b43e-29a118349037" page="136" coords="189.552000,263.384000,305.702000,263.384000,189.552000,253.384000,305.702000,253.384000" rect="189.552000,253.384000,305.702000,263.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_37: consider rewording to indicate that the web client shall be, at least, based on HTTP1.1 with at least HTML5 content.</contents>
+      <popup open="yes" page="136" rect="309.702000,253.384000,437.702000,325.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095918Z00'00'" name="b1673740-05d2-3547-98fb-573d357a4363" page="139" coords="89.924000,676.384000,153.834000,676.384000,89.924000,666.384000,153.834000,666.384000" rect="89.924000,666.384000,153.834000,676.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_284: Agreed action on Issue #176 not implemented.</contents>
+      <popup open="yes" page="139" rect="157.834000,666.384000,285.834000,738.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608095924Z00'00'" name="cce75e35-17ad-2447-b50d-40a79a8e2b48" page="141" coords="90.062000,437.384000,153.972000,437.384000,90.062000,427.384000,153.972000,427.384000" rect="90.062000,427.384000,153.972000,437.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_162: I think this wording does not resolve Issue #104. I think two requirement should exist:
+1) TM_REQ_new (OBSMGT): The TM shall allow users to register as potential proposal submitters (PIs/CoIs) at any time.
+2) TM_REQ_162 (OBSMGT): The TM Observation Preparation Tool shall allow users to either login using a previously registered account, or self-register for proposal submission within the tool.</contents>
+      <popup open="yes" page="141" rect="157.972000,427.384000,285.972000,499.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100005Z00'00'" name="fe323dd6-600d-3240-9ce4-8ac359cf5605" page="142" coords="138.274000,682.384000,178.294000,682.384000,138.274000,672.384000,178.294000,672.384000" rect="138.274000,672.384000,178.294000,682.384000" title="Santander-Vela, Juande">
+      <contents>TM_REQ_325: Where it says "less than 3996" you probably mean "more than": a MTBF of 0 seconds would comply with the requirement 😉</contents>
+      <popup open="yes" page="142" rect="182.294000,672.384000,310.294000,744.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100026Z00'00'" name="4ffbd009-dfd4-4645-b20c-1c8bc73e56cc" page="162" coords="270.898000,682.384000,291.148000,682.384000,270.898000,672.384000,291.148000,672.384000" rect="270.898000,672.384000,291.148000,682.384000" title="Santander-Vela, Juande">
+      <contents>Table 3.71, Row 10: SB's → SBs</contents>
+      <popup open="yes" page="162" rect="295.148000,672.384000,423.148000,744.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100040Z00'00'" name="eabb2fbe-cb3a-9e4a-b653-3ecf29e87ad2" page="164" coords="238.080000,278.899000,264.276000,278.899000,238.080000,266.899000,264.276000,266.899000" rect="238.080000,266.899000,264.276000,278.899000" title="Santander-Vela, Juande">
+      <contents>Section 3.6.1.8 title: SB's → SBs</contents>
+      <popup open="yes" page="164" rect="268.276000,266.899000,396.276000,338.899000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100056Z00'00'" name="862a1f83-7f4c-4147-bc5b-ec877130d185" page="168" coords="432.265000,523.187000,458.461000,523.187000,432.265000,511.187000,458.461000,511.187000" rect="432.265000,511.187000,458.461000,523.187000" title="Santander-Vela, Juande">
+      <contents>Table 3.77 caption: SB's → SBs</contents>
+      <popup open="yes" page="168" rect="462.461000,511.187000,590.461000,583.187000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100130Z00'00'" name="7398428f-a3f8-ba40-9310-119efb04f88a" page="177" coords="99.040000,206.393000,299.120000,206.393000,99.040000,196.393000,299.120000,196.393000" rect="99.040000,196.393000,299.120000,206.393000" title="Santander-Vela, Juande">
+      <contents>Table 3.97, TM_REQ_334: The requirement cannot be found in the text; however, it can be found in T0000-0000-RS, and T0000-0000-VCM</contents>
+      <popup open="yes" page="177" rect="303.120000,196.393000,431.120000,268.393000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100145Z00'00'" name="9c1bdff0-9bfe-0047-a127-a2fa3214c226" page="177" coords="99.040000,182.893000,284.670000,182.893000,99.040000,172.893000,284.670000,172.893000" rect="99.040000,172.893000,284.670000,182.893000" title="Santander-Vela, Juande">
+      <contents>Table 3.97, TM_REQ_339: The requirement cannot be found in the text; however, it can be found in T0000-0000-RS, and T0000-0000-VCM</contents>
+      <popup open="yes" page="177" rect="288.670000,172.893000,416.670000,244.893000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100154Z00'00'" name="aac5e222-ebad-9a48-9434-474f4ba7687e" page="177" coords="99.040000,159.393000,276.330000,159.393000,99.040000,149.393000,276.330000,149.393000" rect="99.040000,149.393000,276.330000,159.393000" title="Santander-Vela, Juande">
+      <contents>Table 3.97, TM_REQ_340: The requirement cannot be found in the text; however, it can be found in T0000-0000-RS, and T0000-0000-VCM</contents>
+      <popup open="yes" page="177" rect="280.330000,149.393000,408.330000,221.393000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100201Z00'00'" name="dff02086-3e6c-1c4b-aec0-c8b370fb6281" page="177" coords="99.040000,135.893000,294.660000,135.893000,99.040000,125.893000,294.660000,125.893000" rect="99.040000,125.893000,294.660000,135.893000" title="Santander-Vela, Juande">
+      <contents>Table 3.97, TM_REQ_341: The requirement cannot be found in the text; however, it can be found in T0000-0000-RS, and T0000-0000-VCM</contents>
+      <popup open="yes" page="177" rect="298.660000,125.893000,426.660000,197.893000"/>
+    </highlight>
+    <freetext flags="print" name="cd4d7d21-24e6-5144-9bad-d86f755e640e" page="178" rect="265.197500,752.745200,278.327500,788.946600">
+      <contents/>
+      <defaultappearance>/.AppleSystemUIFont 13 Tf 0 g</defaultappearance>
+    </freetext>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100218Z00'00'" name="023ab0b4-4953-ee44-b61a-31d0c61b0015" page="182" coords="200.652000,595.884000,222.482000,595.884000,200.652000,585.884000,222.482000,585.884000" rect="200.652000,585.884000,222.482000,595.884000" title="Santander-Vela, Juande">
+      <contents>TELMGT_AL7: SB's → SBs</contents>
+      <popup open="yes" page="182" rect="226.482000,585.884000,354.482000,657.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100226Z00'00'" name="bbae19d5-d0a8-5d4d-a318-b40bcdd1ec81" page="182" coords="230.092000,413.384000,251.922000,413.384000,230.092000,403.384000,251.922000,403.384000" rect="230.092000,403.384000,251.922000,413.384000" title="Santander-Vela, Juande">
+      <contents>TELMGT_AL8: SB's → SBs</contents>
+      <popup open="yes" page="182" rect="255.922000,403.384000,383.922000,475.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100253Z00'00'" name="fe3a0ecb-3e26-2b48-85e3-e171fd4558ee" page="232" coords="165.090000,433.884000,185.340000,433.884000,165.090000,423.884000,185.340000,423.884000" rect="165.090000,423.884000,185.340000,433.884000" title="Santander-Vela, Juande">
+      <contents>TM_VREQ_126: SB's → SBs</contents>
+      <popup open="yes" page="232" rect="189.340000,423.884000,317.340000,495.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100312Z00'00'" name="5f945d99-f963-3047-a90a-5777514fd731" page="237" coords="168.372000,688.384000,188.622000,688.384000,168.372000,678.384000,188.622000,678.384000" rect="168.372000,678.384000,188.622000,688.384000" title="Santander-Vela, Juande">
+      <contents>TM_VREQ_150: SB's → SBs</contents>
+      <popup open="yes" page="237" rect="192.622000,678.384000,320.622000,750.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100325Z00'00'" name="1c53ea2b-d6ce-754f-aa8e-d23f1d2a87bc" page="244" coords="363.893000,305.884000,384.143000,305.884000,363.893000,295.884000,384.143000,295.884000" rect="363.893000,295.884000,384.143000,305.884000" title="Santander-Vela, Juande">
+      <contents>TM_VREQ_190: SB's → SBs</contents>
+      <popup open="yes" page="244" rect="388.143000,295.884000,516.143000,367.884000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100335Z00'00'" name="b6f00792-bb85-5c4a-a3da-5559491ce08e" page="257" coords="99.270000,657.384000,128.180000,657.384000,99.270000,647.384000,128.180000,647.384000" rect="99.270000,647.384000,128.180000,657.384000" title="Santander-Vela, Juande">
+      <contents>TM_VREQ_254: Try to remove HTML/XML entities (&amp;quot; and similar) and replace them with the proper character.</contents>
+      <popup open="yes" page="257" rect="132.180000,647.384000,260.180000,719.384000"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160606153608Z00'00'" name="cfe80eab-bb18-954a-b7ae-3dbc3a2ae67b" page="257" coords="190.575000,657.384000,219.485000,657.384000,190.575000,647.384000,219.485000,647.384000" rect="190.575000,647.384000,219.485000,657.384000" title="Santander-Vela, Juande">
+      <popup flags="print,nozoom,norotate" open="no" page="257" rect="595.275024,537.384003,775.275024,657.384003"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160606153610Z00'00'" name="fccb9c6b-6848-ae40-9a5d-006d670eeed6" page="257" coords="162.630000,642.384000,191.540000,642.384000,162.630000,632.384000,191.540000,632.384000" rect="162.630000,632.384000,191.540000,642.384000" title="Santander-Vela, Juande">
+      <popup flags="print,nozoom,norotate" open="no" page="257" rect="595.275024,522.384003,775.275024,642.384003"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160606153613Z00'00'" name="03da44a1-b804-df48-adab-5bd55544daea" page="257" coords="211.550000,642.384000,240.460000,642.384000,211.550000,632.384000,240.460000,632.384000" rect="211.550000,632.384000,240.460000,642.384000" title="Santander-Vela, Juande">
+      <popup flags="print,nozoom,norotate" open="no" page="257" rect="595.275024,522.384003,775.275024,642.384003"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160606153615Z00'00'" name="97968301-3449-e34f-908e-f8b80de2c4b8" page="257" coords="254.360000,642.384000,283.270000,642.384000,254.360000,632.384000,283.270000,632.384000" rect="254.360000,632.384000,283.270000,642.384000" title="Santander-Vela, Juande">
+      <popup flags="print,nozoom,norotate" open="no" page="257" rect="595.275024,522.384003,775.275024,642.384003"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160606153618Z00'00'" name="60c6ef8b-2f15-4a49-89f6-878476848f07" page="257" coords="326.620000,642.384000,355.530000,642.384000,326.620000,632.384000,355.530000,632.384000" rect="326.620000,632.384000,355.530000,642.384000" title="Santander-Vela, Juande">
+      <popup flags="print,nozoom,norotate" open="no" page="257" rect="595.275024,522.384003,775.275024,642.384003"/>
+    </highlight>
+    <highlight color="#FFE79D" flags="print" date="D:20160608100410Z00'00'" name="7bff7a2e-c040-9148-93f9-ecaecbd2d627" page="297" coords="263.797000,246.270000,284.047000,246.270000,263.797000,236.270000,284.047000,236.270000" rect="263.797000,236.270000,284.047000,246.270000" title="Santander-Vela, Juande">
+      <contents>Table 6.1, row 246: SB's → SBs</contents>
+      <popup open="yes" page="297" rect="288.047000,236.270000,416.047000,308.270000"/>
+    </highlight>
+    <freetext flags="print" name="155a5ed8-b070-6441-919f-4047aa207cc5" page="299" rect="92.466090,471.120800,104.429000,501.546700">
+      <contents/>
+      <defaultappearance>/.AppleSystemUIFont 13 Tf 0 g</defaultappearance>
+    </freetext>
+  </annots>
+  <f href="T1000-0000-RS-001-B_Ska1TmMidRequirementsSpecification.pdf"/>
+  <ids original="B02BC56310BBA2A4AF6D2C22A434D0C8" modified="B02BC56310BBA2A4AF6D2C22A434D0C8"/>
+</xfdf>
