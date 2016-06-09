@@ -52,8 +52,12 @@ with sys.stdout as out:
             content = get_tag(h, "contents", prefix=prefix).text
         except:
             continue
+        try:
+            rich_content = get_tag(h, "contents-richtext", prefix=prefix)
+            rich_content_text = get_all_tags(rich_content,"span",prefix="http://www.w3.org/1999/xhtml").text
         except:
             continue
+        content = content + rich_content_text
         content = content.replace("\n","-").replace("\r","")
         line = u"NA\t{2}\tSECTION\t{0}\t{3}\t{1}\n".format(page,content,issue,author).encode("utf-8")
         out.write(line)
