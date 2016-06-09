@@ -22,7 +22,7 @@ with sys.stdout as out:
     issue = 1
     for h in highlights:
         try:
-            page = h.get("page")
+            page = int(h.get("page"))+1
         except:
             continue
         try:
