@@ -5,21 +5,40 @@ import sys
 comments_file = open("examples/Technical_Document_Comments.xfdf", "r")
 comments_xml = etree.parse(comments_file)
 root = comments_xml.getroot()
-prefix = None
-try:
-    prefix = root.tag.partition("}")[0].partition("{")[-1]
-except:
-    pass
 
-if prefix:
-    highlights = root[0].findall("{%s}highlight" % prefix)
-else:
-    highlights = root[0].findall("highlight")
+def get_root_prefix(xml_root):
+    prefix = None
+    try:
+        prefix = xml_root.tag.partition("}")[0].partition("{")[-1]
+    except:
+        pass
+    return prefix
+
+prefix = get_root_prefix(root)
+
+def get_all_tags(xml_element, tag, prefix=None):
+    tags = None
+    if prefix:
+        tags = xml_element.findall("{{0}}{1}".format(prefix,tag))
+    else:
+        tags = xml_element.findall(tag)
+    return tags
+    
+def get_tag(xml_element, tag, prefix=None):
+    tag_result = None
+    if prefix:
+        tag_result = xml_element.find("{{0}}{1}".format(prefix,tag))
+    else:
+        tag_result = xml_element.find(tag)
+    return tag_result
+    
+    
 
 with sys.stdout as out:
     line = u"\tIssue\tSection\tPage\tBy\tObservation Description\n".encode("utf-8")
     out.write(line)
     issue = 1
+    highlights = get_all_tags(root[0], "highlight", prefix=prefix)
     for h in highlights:
         try:
             page = int(h.get("page"))+1
@@ -30,7 +49,9 @@ with sys.stdout as out:
         except:
             continue
         try:
-            content = h.find("{%s}contents" % prefix).text
+            content = get_tag(h, "contents", prefix=prefix).text
+        except:
+            continue
         except:
             continue
         content = content.replace("\n","-").replace("\r","")
