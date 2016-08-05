@@ -21,6 +21,10 @@ declare function functx:trim
   let $comment := functx:trim($tokenized_comment[2])
   let $section := fn:string($h/@subject) (: if it exists, it might include context :)
   let $section := fn:concat($section, fn:string(functx:trim($tokenized_comment[1])))
-  return <tr><td>{fn:string($issue)}</td><td>{$section}</td><td>{$page}</td><td>{$author}</td><td>{$comment}</td></tr>
+  let $section_priority_item_info := fn:tokenize($tokenized_comment[1], "\|")
+  let $section_part := fn:string(functx:trim($section_priority_item_info[1]))
+  let $priority_part := fn:string(functx:trim($section_priority_item_info[2]))
+  let $item_part := fn:string(functx:trim($section_priority_item_info[3]))
+  return <tr><td>{fn:string($issue)}</td><td>{$section_part}, {$item_part}</td><td>{$page}</td><td>{$author}</td><td>{$priority_part}</td><td>{$comment}</td></tr>
 }
 </table></body></xhtml>
